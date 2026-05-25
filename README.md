@@ -56,7 +56,7 @@ Currently learning, building, and growing — one commit at a time.
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alekhyavalavala1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jahnavi-naga-devi-sri-alekhya-v-1603b3363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jahnavi-naga-devi-sri-alekhya-v-1603b3363)
 
 ---
 
