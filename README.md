@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/28227848/README.md)
-# Hi, I'm Alekhya Valavala 👋
+# Hi, I'm Jahnavi Naga Devi Sri Alekhya Valavala  👋
 
 I'm a Computer Science undergraduate passionate about **Full-Stack Web Development**.  
 Currently learning, building, and growing — one commit at a time.
